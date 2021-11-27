@@ -35,4 +35,9 @@ ul {
   .close-btn:hover {
     color: var(--clr-red-light);
     transform: rotate(360deg);
-  }  
+  }
+  .logo {
+    justify-self: center;
+    height: 40px;
+  }
+    
